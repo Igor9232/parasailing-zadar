@@ -14,5 +14,9 @@
   },
   "observability": {
     "enabled": true
-  }
+  },
+  "routes": [
+    { "pattern": "parasailingzadar.com", "custom_domain": true },
+    { "pattern": "www.parasailingzadar.com", "custom_domain": true }
+  ]
 }
