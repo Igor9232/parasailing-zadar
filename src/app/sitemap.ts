@@ -1,6 +1,6 @@
 import type { MetadataRoute } from 'next';
 
-const SITE_URL = 'https://parasailing-zadar.com';
+const SITE_URL = 'https://parasailingzadar.com';
 
 const LOCALE_TO_BCP47: Record<string, string> = {
     en: 'en',
