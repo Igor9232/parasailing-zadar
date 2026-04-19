@@ -9,7 +9,7 @@ export default function robots(): MetadataRoute.Robots {
                 disallow: ['/api/', '/_next/'],
             },
         ],
-        sitemap: 'https://parasailing-zadar.com/sitemap.xml',
-        host: 'https://parasailing-zadar.com',
+        sitemap: 'https://parasailingzadar.com/sitemap.xml',
+        host: 'https://parasailingzadar.com',
     };
 }
