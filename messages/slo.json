@@ -1,0 +1,128 @@
+{
+    "Nav": {
+        "brand": "PARASAILING",
+        "call": "POKLIČI"
+    },
+    "Hero": {
+        "subtitle": "Poleti nad Jadranom.",
+        "cta_book": "Rezerviraj Let",
+        "cta_explore": "Odkrij Let",
+        "scroll_hint": "POMIKAJ"
+    },
+    "Marquee": {
+        "text": "LETI VISOKO • PARASAILING ZADAR • JADRANSKO MORJE • 100M NAD • ČISTI ADRENALIN • "
+    },
+    "Experiences": {
+        "moments": {
+            "0": {
+                "title": "VZLET",
+                "subtitle": "Začetek Pustolovščine",
+                "description": "PLATFORMA • ČOLN • ADRENALINSKI VZLET"
+            },
+            "1": {
+                "title": "LET",
+                "subtitle": "100m Nad Morjem",
+                "description": "LEBDITE NAD JADRANOM • OBČUTEK SVOBODE"
+            },
+            "2": {
+                "title": "RAZGLED",
+                "subtitle": "Panorama Ki Jemlje Dih",
+                "description": "ZADAR • OTOKI • OBZORJE BREZ MEJA"
+            },
+            "3": {
+                "title": "SPLASH",
+                "subtitle": "Opcijsko Kopanje",
+                "description": "DOTAKNITE MORJE • ČISTI ADRENALIN"
+            }
+        }
+    },
+    "Stats": {
+        "height": "VIŠINA LETA",
+        "happy_flyers": "ZADOVOLJNIH LETAČEV",
+        "duration": "TRAJANJE LETA",
+        "safety": "VARNOST"
+    },
+    "TakeOff": {
+        "badge": "POSTOPEK",
+        "title_1": "OD",
+        "title_2": "NIČLE",
+        "title_3": "DO LETA",
+        "steps": {
+            "0": "Vzlet s platforme čolna",
+            "1": "Dvig na 100m višine",
+            "2": "Profesionalna posadka vas vodi",
+            "3": "Certificirana oprema za let",
+            "4": "100% Adrenalin, 100% Varnost"
+        }
+    },
+    "Gallery": {
+        "title_1": "Ujeto",
+        "title_2": "V Letu.",
+        "alt_video": "Video parasailing leta nad Jadranskim morjem pri Zadru",
+        "alt_img1": "Vzlet parasailinga s platforme čolna blizu Zadra",
+        "alt_img2": "Parasailing visoko nad Jadranskim morjem z razgledom na zadarski arhipelag"
+    },
+    "Pricing": {
+        "title_1": "LETNI",
+        "title_2": "PAKETI",
+        "single": "Solo",
+        "tandem": "Tandem",
+        "triple": "Triple",
+        "duration": "10 minut",
+        "extra": "+ DODATNA OSEBA NA ČOLNU:",
+        "book_now": "REZERVIRAJ"
+    },
+    "Safety": {
+        "title_1": "100%",
+        "title_2": "VARNO.",
+        "faqs": {
+            "0": { "q": "Starostne omejitve?", "a": "Brez omejitev." },
+            "1": { "q": "Minimalna teža?", "a": "45 kg skupne teže posadke." },
+            "2": { "q": "Maksimalna teža?", "a": "Odvisno od trenutnih vremenskih razmer in vetra." },
+            "3": { "q": "Nosečnice?", "a": "Vožnja ni priporočljiva." },
+            "4": { "q": "Slabo vreme?", "a": "Dogovorimo nov termin ali vrnemo denar 100%." },
+            "5": { "q": "Telefon na letu?", "a": "Da, ponujamo vodoodporne torbice za vašo napravo." }
+        }
+    },
+    "Location": {
+        "title": "Lokacija.",
+        "address": "Obala 5, 23231, Petrčane"
+    },
+    "Booking": {
+        "badge": "ZADNJI KLIC",
+        "title_1": "PRIPRAVLJENI",
+        "title_2": "NA",
+        "title_3": "LET.",
+        "hours_label": "// VSAKODNEVNI DELOVNI ČAS",
+        "hours": "10:00 — 18:00",
+        "hours_note": "* Priporočamo rezervacijo vnaprej",
+        "call_now": "POKLIČI",
+        "whatsapp": "WHATSAPP",
+        "directions": "NAVODILA",
+        "form": {
+            "title": "REZERVIRAJ V 30 SEKUNDAH",
+            "subtitle": "Izpolni obrazec — takoj odgovorimo na WhatsAppu.",
+            "name": "Vaše Ime",
+            "date": "Želeni Datum",
+            "people": "Oseb",
+            "package": "Paket",
+            "package_single": "Solo (60€)",
+            "package_tandem": "Tandem (100€)",
+            "package_triple": "Triple (150€)",
+            "submit": "POŠLJI PREKO WHATSAPPA",
+            "or": "ALI NAS KONTAKTIRAJ",
+            "greeting": "Pozdravljeni! Rad/a bi rezerviral/a parasailing let."
+        }
+    },
+    "Footer": {
+        "description": "Parasailing izkušnja v Zadru, Hrvaška. Letite 100m nad Jadranskim morjem s panoramskim razgledom na zadarski arhipelag.",
+        "contact": "Kontakt",
+        "quick_links": "Hitre Povezave",
+        "link_experience": "Izkušnja",
+        "link_gallery": "Galerija",
+        "link_book": "Rezerviraj Let",
+        "link_directions": "Navodila do nas",
+        "hours": "Vsak dan 10:00 — 18:00",
+        "rights": "Vse pravice pridržane."
+    }
+}

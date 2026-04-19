@@ -1,0 +1,128 @@
+{
+    "Nav": {
+        "brand": "PARASAILING",
+        "call": "CHIAMA"
+    },
+    "Hero": {
+        "subtitle": "Vola sopra l'Adriatico.",
+        "cta_book": "Prenota il Volo",
+        "cta_explore": "Scopri il Volo",
+        "scroll_hint": "SCORRI"
+    },
+    "Marquee": {
+        "text": "VOLA IN ALTO • PARASAILING ZADAR • MARE ADRIATICO • 100M DI ALTEZZA • PURA ADRENALINA • "
+    },
+    "Experiences": {
+        "moments": {
+            "0": {
+                "title": "DECOLLO",
+                "subtitle": "L'Emozione Inizia",
+                "description": "PIATTAFORMA • BARCA • LANCIO ADRENALINICO"
+            },
+            "1": {
+                "title": "IL VOLO",
+                "subtitle": "100m Sopra il Mare",
+                "description": "LIBRATEVI SULL'ADRIATICO • SENSAZIONE DI LIBERTÀ"
+            },
+            "2": {
+                "title": "LA VISTA",
+                "subtitle": "Panorama Mozzafiato",
+                "description": "ZADAR • ISOLE • ORIZZONTE SENZA LIMITI"
+            },
+            "3": {
+                "title": "SPLASH",
+                "subtitle": "Tuffo Opzionale",
+                "description": "TOCCARE IL MARE • PURA ADRENALINA"
+            }
+        }
+    },
+    "Stats": {
+        "height": "ALTEZZA DI VOLO",
+        "happy_flyers": "VOLATORI FELICI",
+        "duration": "DURATA DEL VOLO",
+        "safety": "SICUREZZA"
+    },
+    "TakeOff": {
+        "badge": "IL PROCESSO",
+        "title_1": "DA",
+        "title_2": "ZERO",
+        "title_3": "AL VOLO",
+        "steps": {
+            "0": "Decollo dalla piattaforma della barca",
+            "1": "Salita a 100m di altezza",
+            "2": "Equipaggio professionale vi guida",
+            "3": "Attrezzatura di volo certificata",
+            "4": "100% Adrenalina, 100% Sicurezza"
+        }
+    },
+    "Gallery": {
+        "title_1": "Catturato",
+        "title_2": "In Volo.",
+        "alt_video": "Video del volo parasailing sopra il Mare Adriatico a Zadar",
+        "alt_img1": "Decollo parasailing dalla piattaforma della barca vicino a Zadar",
+        "alt_img2": "Parasailing in alto sopra il Mare Adriatico con vista sull'arcipelago di Zadar"
+    },
+    "Pricing": {
+        "title_1": "PACCHETTI",
+        "title_2": "DI VOLO",
+        "single": "Singolo",
+        "tandem": "Tandem",
+        "triple": "Triplo",
+        "duration": "10 minuti",
+        "extra": "+ PERSONA EXTRA SULLA BARCA:",
+        "book_now": "PRENOTA ORA"
+    },
+    "Safety": {
+        "title_1": "100%",
+        "title_2": "SICURO.",
+        "faqs": {
+            "0": { "q": "Limiti di età?", "a": "Nessun limite." },
+            "1": { "q": "Peso minimo?", "a": "45 kg di peso totale dell'equipaggio." },
+            "2": { "q": "Peso massimo?", "a": "Dipende dalle condizioni meteorologiche attuali e dal vento." },
+            "3": { "q": "Donne incinte?", "a": "Il giro non è raccomandato." },
+            "4": { "q": "Maltempo?", "a": "Riprogrammiamo o rimborsiamo al 100%." },
+            "5": { "q": "Telefono durante il volo?", "a": "Sì, offriamo custodie impermeabili per il vostro dispositivo." }
+        }
+    },
+    "Location": {
+        "title": "Posizione.",
+        "address": "Obala 5, 23231, Petrčane"
+    },
+    "Booking": {
+        "badge": "ULTIMA CHIAMATA",
+        "title_1": "PRONTI",
+        "title_2": "A",
+        "title_3": "VOLARE.",
+        "hours_label": "// ORARI DI APERTURA GIORNALIERI",
+        "hours": "10:00 — 18:00",
+        "hours_note": "* Prenotazione anticipata consigliata",
+        "call_now": "CHIAMA",
+        "whatsapp": "WHATSAPP",
+        "directions": "INDICAZIONI",
+        "form": {
+            "title": "PRENOTA IN 30 SECONDI",
+            "subtitle": "Compila il modulo — ti rispondiamo su WhatsApp subito.",
+            "name": "Il Tuo Nome",
+            "date": "Data Preferita",
+            "people": "Persone",
+            "package": "Pacchetto",
+            "package_single": "Singolo (60€)",
+            "package_tandem": "Tandem (100€)",
+            "package_triple": "Triplo (150€)",
+            "submit": "INVIA SU WHATSAPP",
+            "or": "OPPURE CONTATTACI",
+            "greeting": "Ciao! Vorrei prenotare un volo parasailing."
+        }
+    },
+    "Footer": {
+        "description": "Esperienza parasailing a Zadar, Croazia. Volate a 100m sopra il Mare Adriatico con vista panoramica sull'arcipelago di Zadar.",
+        "contact": "Contatto",
+        "quick_links": "Link Rapidi",
+        "link_experience": "L'Esperienza",
+        "link_gallery": "Galleria",
+        "link_book": "Prenota un Volo",
+        "link_directions": "Indicazioni",
+        "hours": "Ogni giorno 10:00 — 18:00",
+        "rights": "Tutti i diritti riservati."
+    }
+}

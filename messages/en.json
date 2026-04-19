@@ -1,0 +1,128 @@
+{
+    "Nav": {
+        "brand": "PARASAILING",
+        "call": "CALL"
+    },
+    "Hero": {
+        "subtitle": "Fly Above The Adriatic.",
+        "cta_book": "Book Your Flight",
+        "cta_explore": "Discover The Flight",
+        "scroll_hint": "SCROLL"
+    },
+    "Marquee": {
+        "text": "FLY HIGH • PARASAILING ZADAR • ADRIATIC SEA • 100M ABOVE • PURE ADRENALINE • "
+    },
+    "Experiences": {
+        "moments": {
+            "0": {
+                "title": "TAKEOFF",
+                "subtitle": "The Rush Begins",
+                "description": "PLATFORM • BOAT • ADRENALINE LAUNCH"
+            },
+            "1": {
+                "title": "THE FLIGHT",
+                "subtitle": "100m Above Sea",
+                "description": "SOAR ABOVE THE ADRIATIC • FEELING OF FREEDOM"
+            },
+            "2": {
+                "title": "THE VIEW",
+                "subtitle": "Breathtaking Panorama",
+                "description": "ZADAR • ISLANDS • HORIZON WITHOUT LIMITS"
+            },
+            "3": {
+                "title": "SPLASH",
+                "subtitle": "Optional Dip",
+                "description": "TOUCH THE SEA • PURE ADRENALINE"
+            }
+        }
+    },
+    "Stats": {
+        "height": "FLIGHT HEIGHT",
+        "happy_flyers": "HAPPY FLYERS",
+        "duration": "FLIGHT DURATION",
+        "safety": "SAFETY"
+    },
+    "TakeOff": {
+        "badge": "THE PROCESS",
+        "title_1": "ZERO",
+        "title_2": "TO",
+        "title_3": "FLY",
+        "steps": {
+            "0": "Takeoff from the boat platform",
+            "1": "Rise to 100m altitude",
+            "2": "Professional crew guides you",
+            "3": "Certified flight equipment",
+            "4": "100% Adrenaline, 100% Safety"
+        }
+    },
+    "Gallery": {
+        "title_1": "Captured",
+        "title_2": "In Flight.",
+        "alt_video": "Parasailing flight video above the Adriatic Sea in Zadar",
+        "alt_img1": "Parasailing takeoff from boat platform near Zadar coast",
+        "alt_img2": "Parasailing high above the Adriatic Sea with Zadar archipelago view"
+    },
+    "Pricing": {
+        "title_1": "FLIGHT",
+        "title_2": "PACKAGES",
+        "single": "Single",
+        "tandem": "Tandem",
+        "triple": "Triple",
+        "duration": "10 minutes",
+        "extra": "+ EXTRA PERSON ON BOAT:",
+        "book_now": "BOOK NOW"
+    },
+    "Safety": {
+        "title_1": "100%",
+        "title_2": "SAFE.",
+        "faqs": {
+            "0": { "q": "Age restrictions?", "a": "No restrictions." },
+            "1": { "q": "Minimum weight?", "a": "45 kg total crew weight." },
+            "2": { "q": "Maximum weight?", "a": "Depends on current weather conditions and wind." },
+            "3": { "q": "Pregnant?", "a": "The ride is not recommended." },
+            "4": { "q": "Bad weather?", "a": "We reschedule or refund 100%." },
+            "5": { "q": "Phone on the flight?", "a": "Yes, we offer waterproof cases for your device." }
+        }
+    },
+    "Location": {
+        "title": "Location.",
+        "address": "Obala 5, 23231, Petrčane"
+    },
+    "Booking": {
+        "badge": "FINAL CALL",
+        "title_1": "READY",
+        "title_2": "TO",
+        "title_3": "FLY.",
+        "hours_label": "// EVERYDAY OPENING HOURS",
+        "hours": "10:00 — 18:00",
+        "hours_note": "* Advance booking recommended",
+        "call_now": "CALL",
+        "whatsapp": "WHATSAPP",
+        "directions": "DIRECTIONS",
+        "form": {
+            "title": "BOOK IN 30 SECONDS",
+            "subtitle": "Fill the form — we reply on WhatsApp instantly.",
+            "name": "Your Name",
+            "date": "Preferred Date",
+            "people": "People",
+            "package": "Package",
+            "package_single": "Single (60€)",
+            "package_tandem": "Tandem (100€)",
+            "package_triple": "Triple (150€)",
+            "submit": "SEND VIA WHATSAPP",
+            "or": "OR CONTACT DIRECTLY",
+            "greeting": "Hi! I would like to book a parasailing flight."
+        }
+    },
+    "Footer": {
+        "description": "Parasailing experience in Zadar, Croatia. Fly 100m above the Adriatic Sea with panoramic views of the Zadar archipelago.",
+        "contact": "Contact",
+        "quick_links": "Quick Links",
+        "link_experience": "The Experience",
+        "link_gallery": "Gallery",
+        "link_book": "Book a Flight",
+        "link_directions": "Get Directions",
+        "hours": "Every day 10:00 — 18:00",
+        "rights": "All rights reserved."
+    }
+}
